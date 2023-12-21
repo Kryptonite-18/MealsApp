@@ -1,16 +1,40 @@
-# meals
+# Flutter Meals App
 
-A new Flutter project.
+![App Logo](path/to/your/app/logo.png)
+
+## Overview
+
+The Flutter Meals app is designed to help users explore and discover a variety of recipes based on different categories. It includes screens for browsing categories, viewing meals, and accessing detailed information about each meal which includes ingredients and step to make this meal. The app also features a filter option to tailor recipes according to user preferences.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+2. [Features](#features)
+    - [Category Screen](#category-screen)
+    - [Meals Screen](#meals-screen)
+    - [Meal Detail Screen](#meal-detail-screen)
+    - [Filter Option](#filter-option)
+3. [Usage](#usage)
+   - [Whenever you are hungry and all food services are off (which will never happen but just in case)]
+5. [Contributing](#contributing)
+   -[Neahh]
+7. [License](#license)
+   [No idea about this]
+9. [Acknowledgements](#acknowledgements)
+   -[I acknowledge myself]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Kryptonite-18/MealsApp.git
